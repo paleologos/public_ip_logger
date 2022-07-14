@@ -1,0 +1,15 @@
+{
+  "name": "public_ip_logger",
+  "version": "1.0.0",
+  "description": "logging users public ip address",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milan nikolic",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs-publicip": "^2.1.2",
+    "nodemailer": "^6.7.5"
+  }
+}
